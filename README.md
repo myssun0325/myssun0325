@@ -1,8 +1,8 @@
 <h3 align="left">Hi there 👋 I'm Mason </h3>
 
-- 🌱 I’m currently learning **Combine, FP**
+- 🌱 I’m currently learning **Combine, FP, SwiftUI**
 
-- 🎯 I will learning **SwiftUI, Architecture with Router, Clean Architecture**
+- 🎯 I will learning **Architecture with Router, Clean Architecture**
 
 - ❤️‍🔥 Learning means failing, figuring out what went wrong and doint it better next time
 
