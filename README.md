@@ -1,5 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">An iOS developer</h3>
+<h3 align="left">Hi there 👋</h3>
 
 - 🌱 I’m currently learning **Combine, FP**
 
