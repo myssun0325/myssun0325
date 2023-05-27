@@ -2,5 +2,9 @@
 
 - ❤️‍🔥 Learning means failing, figuring out what went wrong and doint it better next time
 
+- 🌱 I’m currently learning **Combine, SwiftUI, Coordinator, Clean Architecture**
+
+- 🎯 I will learning **everything necessary to create value through iOS development.**
+
 🏊‍♂️ 🎸 🎧 🎬 🥊 🧑‍💻
 
